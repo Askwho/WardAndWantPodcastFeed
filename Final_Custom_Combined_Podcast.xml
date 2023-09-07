@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <ns0:link href="https://askwho.github.io/WardAndWantPodcastFeed/Custom_Combined_Podcast.xml" rel="self" type="application/rss+xml"/>
+    <ns0:link href="https://askwho.github.io/WardAndWantPodcastFeed/Final_Custom_Combined_Podcast.xml" rel="self" type="application/rss+xml"/>
     <title>Custom Combined Podcast</title>
     <description>A custom combined podcast feed</description>
     <link>https://askwho.github.io/WardAndWantPodcastFeed/</link>
